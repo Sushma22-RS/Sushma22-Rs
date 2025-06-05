@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushma Rajesh Sogali</h1>
-<h3 align="center">🎓 I'm currently a 3rd-year Computer Science student at Sri Jayachamarajendra College of Engineering. 📊 Aspiring Data & Analytics Intern | Passionate about Data-Driven Insights, Visualization, and Problem Solving 📚 Skilled in Python, SQL, Excel, Pandas, and Power BI | Strong foundation in Data Structures & Algorithms (C++) 🔍 Exploring the intersection of data, business, and technology through real-world projects 💡 Always eager to analyze, learn, and build — turning raw data into actionable insights</h3>
+<h3 align="center"><li><ol>🎓 I'm currently a 3rd-year Computer Science student at Sri Jayachamarajendra College of Engineering. </ul><ul>📊  Passionate about Data-Driven Insights, Visualization, and Problem Solving.</ul> <ul>📚 Skilled in Python, SQL, Excel, Pandas, and Power BI.</ul> <ul> Strong foundation in Data Structures & Algorithms (C++).</ul><ul> 🔍 Exploring the intersection of data, business, and technology through real-world projects.</ul><ul> 💡 Always eager to analyze, learn, and build — turning raw data into actionable insights.</ul></h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushma22-rs" alt="sushma22-rs" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
