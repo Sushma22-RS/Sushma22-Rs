@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushma22-rs&" alt="sushma22-rs" /></p>
 
-![snake gif](https://github.com/Sushma22-RS/Sushma22-RS/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Sushma22-RS/Sushma22-RS/blob/output/github-snake.svg)
